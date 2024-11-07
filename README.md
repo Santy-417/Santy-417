@@ -26,8 +26,8 @@ En mi perfil de GitHub podrás encontrar proyectos en los que he trabajado utili
 
 ## ¿Cómo contactar conmigo? 📬
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta, propuesta de colaboración o simplemente quieres conectar, no dudes en contactarme:
-- **Correo electrónico**: santichav417@gmail.com
-- **LinkedIn**: [Santi en LinkedIn](www.linkedin.com/in/santiago-chavarro-osorio)
+- **Correo electrónico**: [santichav417@gmail.com](mailto:santichav417@gmail.com)
+- **LinkedIn**: [Santiago Chavarro Osorio](https://www.linkedin.com/in/santiago-chavarro-osorio)
 - **GitHub**: [Mi perfil de GitHub](https://github.com/Santy-417)
 
 ## ¡Vamos a seguir aprendiendo y creciendo juntos! 🚀
