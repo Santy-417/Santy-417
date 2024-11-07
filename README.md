@@ -1,36 +1,36 @@
-# ¡Hola, soy Santi! 👋🏼
+# Hello, I'm Santi! 👋🏼
 
-Soy **Estudiante de Ingeniería de Sistemas y Telecomunicaciones** en la **Universidad de Manizales**, actualmente cursando el **sexto semestre**. Me apasiona el **desarrollo de software**, la **programación** y el **aprendizaje continuo**, siempre en busca de soluciones innovadoras y eficientes para resolver problemas reales.
+I am a **Systems and Telecommunications Engineering student** at **Universidad de Manizales**, currently in my **sixth semester**. I am passionate about **software development**, **programming**, and **continuous learning**, always seeking innovative and efficient solutions to solve real-world problems.
 
-## ¿Qué hago? 🛠️
-Durante mi formación académica, he desarrollado habilidades y conocimientos en diversas áreas, incluyendo:
+## What do I do? 🛠️
+During my academic journey, I have developed skills and knowledge in various areas, including:
 
-- **Lenguajes de programación**: Python (Intermedio)
-- **Desarrollo web**: HTML, CSS, JavaScript, React, Bootstrap
+- **Programming languages**: Python (Intermediate)
+- **Web development**: HTML, CSS, JavaScript, React, Bootstrap
 - **Frameworks**: FastAPI, Streamlit
-- **Bases de datos**: SQL
-- **Inglés**: Certificado B2 por la Universidad Autónoma de Manizales, permitiéndome comunicarme y comprender temas técnicos en este idioma.
+- **Databases**: SQL
+- **English**: B2 certified by Universidad Autónoma de Manizales, enabling me to communicate and understand technical topics in English.
 
-## ¿Qué me motiva? 💡
-Mi objetivo es aplicar y expandir mis conocimientos técnicos en entornos de trabajo colaborativos, donde pueda buscar soluciones que optimicen procesos y generen un impacto positivo en quienes las utilizan. Estoy comprometido con el **aprendizaje constante** y me apasiona **ayudar a los demás a superarse** y crear sinergias que beneficien a todos.
+## What motivates me? 💡
+My goal is to apply and expand my technical knowledge in collaborative work environments, where I can find solutions that optimize processes and make a positive impact on users. I am committed to **constant learning** and passionate about **helping others succeed** and creating synergies that benefit everyone.
 
-## ¿Cómo soy? 🧠
-Me caracterizo por mi capacidad de **trabajo en equipo**, **comunicación efectiva**, y **orientación a resultados**. Soy una persona **responsable**, **proactiva**, con habilidades de **liderazgo** y **pensamiento estratégico** que aplico tanto en el ámbito académico como profesional. Mi objetivo profesional es seguir adquiriendo y afianzando conocimientos en **tecnología** y **gestión de proyectos** para aportar al **crecimiento** de las organizaciones en las que participe.
+## What am I like? 🧠
+I am characterized by my ability to **work in teams**, **effective communication**, and **results-oriented mindset**. I am a **responsible**, **proactive** person with **leadership** and **strategic thinking** skills that I apply both academically and professionally. My professional goal is to continue acquiring and strengthening knowledge in **technology** and **project management** to contribute to the **growth** of the organizations I am part of.
 
-## Mis Proyectos 🚀
+## My Projects 🚀
 
-1. **Proyecto de Desarrollo Web - React**  
-   He trabajado en un proyecto de desarrollo web utilizando tecnologías como **HTML**, **CSS**, **JavaScript** y **React**. Puedes verlo en línea aquí:  
-   👉 [Ver proyecto de fútbol en Netlify](https://reactfinalfutbolproyect.netlify.app/)
+1. **Web Development Project - React**  
+   I have worked on a web development project using technologies such as **HTML**, **CSS**, **JavaScript**, and **React**. You can view it online here:  
+   👉 [View football project on Netlify](https://reactfinalfutbolproyect.netlify.app/)
 
-2. **Proyecto de Gestión de Base de Datos con FastAPI**  
-   Este proyecto es una aplicación para gestionar una base de datos utilizando **FastAPI** y **MySQL**, con funcionalidades como creación de datos, inserción masiva y visualización. Puedes ver el código fuente en GitHub:  
-   👉 [Ver proyecto de FastAPI en GitHub](https://github.com/Santy-417/Trabajo_2_Bases_Datos)
+2. **Database Management Project with FastAPI**  
+   This project is an application to manage a database using **FastAPI** and **MySQL**, with features such as data creation, bulk insertion, and visualization. You can view the source code on GitHub:  
+   👉 [View FastAPI project on GitHub](https://github.com/Santy-417/Trabajo_2_Bases_Datos)
 
-## ¿Cómo contactar conmigo? 📬
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta, propuesta de colaboración o simplemente quieres conectar, no dudes en contactarme:
-- **Correo electrónico**: [santichav417@gmail.com](mailto:santichav417@gmail.com)
+## How to contact me? 📬
+Thank you for visiting my profile! If you have any questions, collaboration proposals, or just want to connect, feel free to reach out to me:
+- **Email**: [santichav417@gmail.com](mailto:santichav417@gmail.com)
 - **LinkedIn**: [Santiago Chavarro Osorio](https://www.linkedin.com/in/santiago-chavarro-osorio)
-- **GitHub**: [Mi perfil de GitHub](https://github.com/Santy-417)
+- **GitHub**: [My GitHub profile](https://github.com/Santy-417)
 
-## ¡Vamos a seguir aprendiendo y creciendo juntos! 🚀
+## Let's keep learning and growing together! 🚀
