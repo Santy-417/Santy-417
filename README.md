@@ -23,6 +23,10 @@ Me caracterizo por mi capacidad de **trabajo en equipo**, **comunicación efecti
    He trabajado en un proyecto de desarrollo web utilizando tecnologías como **HTML**, **CSS**, **JavaScript** y **React**. Puedes verlo en línea aquí:  
    👉 [Ver proyecto de fútbol en Netlify](https://reactfinalfutbolproyect.netlify.app/)
 
+2. **Proyecto de Gestión de Base de Datos con FastAPI**  
+   Este proyecto es una aplicación para gestionar una base de datos utilizando **FastAPI** y **MySQL**, con funcionalidades como creación de datos, inserción masiva y visualización. Puedes ver el código fuente en GitHub:  
+   👉 [Ver proyecto de FastAPI en GitHub](https://github.com/Santy-417/Trabajo_2_Bases_Datos)
+
 ## ¿Cómo contactar conmigo? 📬
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta, propuesta de colaboración o simplemente quieres conectar, no dudes en contactarme:
 - **Correo electrónico**: [santichav417@gmail.com](mailto:santichav417@gmail.com)
