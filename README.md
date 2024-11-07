@@ -1,16 +1,33 @@
-## Hi there 👋
+# ¡Hola, soy Santi! 👋🏼
 
-<!--
-**Santy-417/Santy-417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Estudiante de Ingeniería de Sistemas y Telecomunicaciones** en la **Universidad de Manizales**, actualmente cursando el **sexto semestre**. Me apasiona el **desarrollo de software**, la **programación** y el **aprendizaje continuo**, siempre en busca de soluciones innovadoras y eficientes para resolver problemas reales.
 
-Here are some ideas to get you started:
+## ¿Qué hago? 🛠️
+Durante mi formación académica, he desarrollado habilidades y conocimientos en diversas áreas, incluyendo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes de programación**: Python (Intermedio)
+- **Desarrollo web**: HTML, CSS, JavaScript, React, Bootstrap
+- **Frameworks**: FastAPI, Streamlit
+- **Bases de datos**: SQL
+- **Inglés**: Certificado B2 por la Universidad Autónoma de Manizales, permitiéndome comunicarme y comprender temas técnicos en este idioma.
+
+## ¿Qué me motiva? 💡
+Mi objetivo es aplicar y expandir mis conocimientos técnicos en entornos de trabajo colaborativos, donde pueda buscar soluciones que optimicen procesos y generen un impacto positivo en quienes las utilizan. Estoy comprometido con el **aprendizaje constante** y me apasiona **ayudar a los demás a superarse** y crear sinergias que beneficien a todos.
+
+## ¿Cómo soy? 🧠
+Me caracterizo por mi capacidad de **trabajo en equipo**, **comunicación efectiva**, y **orientación a resultados**. Soy una persona **responsable**, **proactiva**, con habilidades de **liderazgo** y **pensamiento estratégico** que aplico tanto en el ámbito académico como profesional. Mi objetivo profesional es seguir adquiriendo y afianzando conocimientos en **tecnología** y **gestión de proyectos** para aportar al **crecimiento** de las organizaciones en las que participe.
+
+## Mis proyectos 👨‍💻
+En mi perfil de GitHub podrás encontrar proyectos en los que he trabajado utilizando las tecnologías mencionadas, tales como:
+- **Aplicaciones web** con **React** y **FastAPI**.
+- **Desarrollo de herramientas interactivas** usando **Streamlit**.
+- **Análisis y visualización de datos** con **Python**.
+- **Gestión de bases de datos** utilizando **SQL**.
+
+## ¿Cómo contactar conmigo? 📬
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta, propuesta de colaboración o simplemente quieres conectar, no dudes en contactarme:
+- **Correo electrónico**: santi@example.com
+- **LinkedIn**: [Santi en LinkedIn](https://www.linkedin.com/in/santi/)
+- **GitHub**: [Mi perfil de GitHub](https://github.com/Santy-417)
+
+## ¡Vamos a seguir aprendiendo y creciendo juntos! 🚀
