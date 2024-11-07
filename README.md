@@ -17,12 +17,11 @@ Mi objetivo es aplicar y expandir mis conocimientos técnicos en entornos de tra
 ## ¿Cómo soy? 🧠
 Me caracterizo por mi capacidad de **trabajo en equipo**, **comunicación efectiva**, y **orientación a resultados**. Soy una persona **responsable**, **proactiva**, con habilidades de **liderazgo** y **pensamiento estratégico** que aplico tanto en el ámbito académico como profesional. Mi objetivo profesional es seguir adquiriendo y afianzando conocimientos en **tecnología** y **gestión de proyectos** para aportar al **crecimiento** de las organizaciones en las que participe.
 
-## Mis proyectos 👨‍💻
-En mi perfil de GitHub podrás encontrar proyectos en los que he trabajado utilizando las tecnologías mencionadas, tales como:
-- **Aplicaciones web** con **React** y **FastAPI**.
-- **Desarrollo de herramientas interactivas** usando **Streamlit**.
-- **Análisis y visualización de datos** con **Python**.
-- **Gestión de bases de datos** utilizando **SQL**.
+## Mis Proyectos 🚀
+
+1. **Proyecto de Desarrollo Web - React**  
+   He trabajado en un proyecto de desarrollo web utilizando tecnologías como **HTML**, **CSS**, **JavaScript** y **React**. Puedes verlo en línea aquí:  
+   👉 [Ver proyecto de fútbol en Netlify](https://reactfinalfutbolproyect.netlify.app/)
 
 ## ¿Cómo contactar conmigo? 📬
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta, propuesta de colaboración o simplemente quieres conectar, no dudes en contactarme:
