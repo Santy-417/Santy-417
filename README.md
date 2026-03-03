@@ -1,6 +1,6 @@
 # Hi, I'm Santiago Chavarro 👋🏼
 
-**Systems & Telecommunications Engineering Student** · Universidad de Manizales · 6th Semester
+**Systems & Telecommunications Engineering Student** · Universidad de Manizales · 9th Semester
 
 I build at the intersection of **AI development**, **automation**, and **full-stack engineering**. My current focus is designing intelligent systems and automation workflows that solve real business problems — from multi-agent architectures to trading platforms powered by machine learning.
 
@@ -30,10 +30,22 @@ I build at the intersection of **AI development**, **automation**, and **full-st
 ![Vector DB](https://img.shields.io/badge/Vector_DB-FF6B6B?style=flat)
 ![RAG](https://img.shields.io/badge/RAG_Memory-8B5CF6?style=flat)
 
+### Other Frontend & UI
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-FF6B6B?style=flat)
+![RAG](https://img.shields.io/badge/RAG_Memory-8B5CF6?style=flat)
+
 ### Cloud & DevOps
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Cloud Deployment](https://img.shields.io/badge/Cloud_Deployment-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ---
 
@@ -101,5 +113,6 @@ Backend application built with FastAPI and MySQL featuring CRUD operations and b
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-chavarro-osorio)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Santy-417)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:santichav417@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573003214043)
 
 > *"I'm not just a student — I'm already building."* 🚀
