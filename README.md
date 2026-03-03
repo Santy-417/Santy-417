@@ -1,36 +1,105 @@
-# Hello, I'm Santi! 👋🏼
+# Hi, I'm Santiago Chavarro 👋🏼
 
-I am a **Systems and Telecommunications Engineering student** at **Universidad de Manizales**, currently in my **sixth semester**. I am passionate about **software development**, **programming**, and **continuous learning**, always seeking innovative and efficient solutions to solve real-world problems.
+**Systems & Telecommunications Engineering Student** · Universidad de Manizales · 6th Semester
 
-## What do I do? 🛠️
-During my academic journey, I have developed skills and knowledge in various areas, including:
+I build at the intersection of **AI development**, **automation**, and **full-stack engineering**. My current focus is designing intelligent systems and automation workflows that solve real business problems — from multi-agent architectures to trading platforms powered by machine learning.
 
-- **Programming languages**: Python (Intermediate)
-- **Web development**: HTML, CSS, JavaScript, React, Bootstrap
-- **Frameworks**: FastAPI, Streamlit
-- **Databases**: SQL
-- **English**: B2 certified by Universidad Autónoma de Manizales, enabling me to communicate and understand technical topics in English.
+---
 
-## What motivates me? 💡
-My goal is to apply and expand my technical knowledge in collaborative work environments, where I can find solutions that optimize processes and make a positive impact on users. I am committed to **constant learning** and passionate about **helping others succeed** and creating synergies that benefit everyone.
+## 🧠 Tech Stack
 
-## What am I like? 🧠
-I am characterized by my ability to **work in teams**, **effective communication**, and **results-oriented mindset**. I am a **responsible**, **proactive** person with **leadership** and **strategic thinking** skills that I apply both academically and professionally. My professional goal is to continue acquiring and strengthening knowledge in **technology** and **project management** to contribute to the **growth** of the organizations I am part of.
+### AI & Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
-## My Projects 🚀
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-1. **Web Development Project - React**  
-   I have worked on a web development project using technologies such as **HTML**, **CSS**, **JavaScript**, and **React**. You can view it online here:  
-   👉 [View football project on Netlify](https://reactfinalfutbolproyect.netlify.app/)
+### Backend & Databases
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-FF6B6B?style=flat)
+![RAG](https://img.shields.io/badge/RAG_Memory-8B5CF6?style=flat)
 
-2. **Database Management Project with FastAPI**  
-   This project is an application to manage a database using **FastAPI** and **MySQL**, with features such as data creation, bulk insertion, and visualization. You can view the source code on GitHub:  
-   👉 [View FastAPI project on GitHub](https://github.com/Santy-417/Trabajo_2_Bases_Datos)
+### Cloud & DevOps
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-## How to contact me? 📬
-Thank you for visiting my profile! If you have any questions, collaboration proposals, or just want to connect, feel free to reach out to me:
-- **Email**: [santichav417@gmail.com](mailto:santichav417@gmail.com)
-- **LinkedIn**: [Santiago Chavarro Osorio](https://www.linkedin.com/in/santiago-chavarro-osorio)
-- **GitHub**: [My GitHub profile](https://github.com/Santy-417)
+---
 
-## Let's keep learning and growing together! 🚀
+## 🚀 Featured Projects
+
+### 🤖 Multi-Agent AI Platform
+**Full-stack application for orchestrating multiple specialized AI agents**  
+Built a hierarchical multi-agent architecture where specialized agents collaborate to solve complex tasks. Features a React/Next.js frontend and a Python backend with real-time agent coordination.  
+`Python` `FastAPI` `React` `Multi-Agent` `LLM`  
+[Frontend →](https://github.com/Santy-417/FrontendMultiAgent) · [Backend →](https://github.com/Santy-417/BackendMultiAgent)
+
+---
+
+### 📈 Forex AI Trading Platform
+**Automated Forex trading system with ML strategies and AI-powered analysis**  
+Professional-grade platform integrating MetaTrader 5, XGBoost ML models, and Smart Money Concepts (SMC) strategies. Includes backtesting engine with Sharpe ratio/drawdown metrics, real-time risk management (circuit breaker, kill switch), and GPT-4o-mini trade analysis. Built with Clean Architecture principles.  
+`Python` `FastAPI` `Next.js` `TypeScript` `XGBoost` `OpenAI` `Supabase` `Redis` `Docker`  
+[View Project →](https://github.com/Santy-417/Trading)
+
+---
+
+### 📱 TierraPhone — Phone Sales & Financing Platform
+**E-commerce platform for smartphone sales with integrated credit evaluation**  
+Full-stack solution for selling and financing mobile phones. Backend built with Node.js, Sequelize ORM, and Supabase PostgreSQL, featuring JWT authentication with RBAC, image upload via Supabase Storage, and integration with a credit evaluation API.  
+`Node.js` `React` `PostgreSQL` `Supabase` `JWT` `REST API`  
+[Frontend →](https://github.com/Santy-417/TierraPhone-Frontend) · [Backend →](https://github.com/Santy-417/TierraPhone-Backend)
+
+---
+
+### 🌐 NextFlow Landing Page
+**Official landing page for NextFlow — a Colombian AI development & automation agency**  
+Built with Next.js 15, TypeScript, Material UI, and Framer Motion. Features full i18n (ES/EN), GA4 + Meta Pixel analytics, contact form with Nodemailer, and production deployment on Vercel.  
+`Next.js 15` `TypeScript` `Material UI` `Tailwind CSS` `Framer Motion` `i18n`  
+[View Project →](https://github.com/Santy-417/NextFlowLanding) · [Live Site →](https://next-flow-landing.vercel.app)
+
+---
+
+### ⚽ Football Stats App
+**React web application for football statistics and data visualization**  
+Frontend project built with React, HTML, CSS, and JavaScript.  
+`React` `JavaScript` `CSS`  
+[Live Demo →](https://reactfinalfutbolproyect.netlify.app/) · [View Project →](https://github.com/Santy-417/Trabajo_2_Bases_Datos)
+
+---
+
+### 🗄️ Database Management API
+**REST API for database management with bulk insertion and data visualization**  
+Backend application built with FastAPI and MySQL featuring CRUD operations and bulk data handling.  
+`FastAPI` `MySQL` `Python`  
+[View Project →](https://github.com/Santy-417/Trabajo_2_Bases_Datos)
+
+---
+
+## 💡 What I'm focused on
+
+- Building **multi-agent AI systems** for real business use cases
+- **Automation workflows** with n8n, Make, and Zapier that generate measurable ROI
+- Applying **RAG memory** and **vector databases** to give AI systems long-term context
+- Co-founding **NextFlow** — an AI & automation agency based in Colombia 🇨🇴
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-chavarro-osorio)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Santy-417)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:santichav417@gmail.com)
+
+> *"I'm not just a student — I'm already building."* 🚀
